@@ -28,8 +28,8 @@ Thumbs.db
 .vscode/
 
 # ========================
-# DO NOT ignore images (for README screenshots)
+# Screenshots & Images
+# (INTENTIONALLY NOT ignored)
 # ========================
 # images/
 # screenshots/
-.idea/
