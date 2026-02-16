@@ -1,29 +1,34 @@
-### IntelliJ IDEA ###
+# ========================
+# Java / IntelliJ IDEA
+# ========================
+.idea/
+*.iml
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+target/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+# ========================
+# Compiled files
+# ========================
+*.class
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+# ========================
+# Logs
+# ========================
+*.log
 
-### VS Code ###
+# ========================
+# OS files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Editors
+# ========================
 .vscode/
 
-### Mac OS ###
-.DS_Store
+# ========================
+# DO NOT ignore images (for README screenshots)
+# ========================
+# images/
+# screenshots/
